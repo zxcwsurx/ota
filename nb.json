@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1714930740,
+      "filename": "file.zip",
+      "id": "8953ebaff6eb050e1874b27ed382ea03c9dbd641231a7e7dff58a924539e4a5c",
+      "romtype": "UNOFFICIAL",
+      "size": 1,
+      "url": "https://github.com/zxcwsurx/ota/releases/download/name-release/file.zip",
+      "version": "21.0"
+    }
+  ]
+}
