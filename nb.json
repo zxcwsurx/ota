@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1715013545,
+      "datetime": 1715445840,
       "filename": "lineage-21.0-20240506-UNOFFICIAL-begonia.zip",
-      "id": "c495fe21a4f7ecd14ccf4adf7d06c925fedc8b934521de501795c454894fd754",
+      "id": "484ba0a4ee0373f2228658deba0a058a73ee19c7bb74d836ae7dcd99225c33a8",
       "romtype": "UNOFFICIAL",
-      "size": 1345106151,
-      "url": "https://github.com/zxcwsurx/ota/releases/download/v.1.0.1-LineageOs-QPR2/lineage-21.0-20240506-UNOFFICIAL-begonia.zip",
+      "size": 1343913349,
+      "url": "https://github.com/zxcwsurx/ota/releases/download/v.1.0.2-LineageOs-QPR2/lineage-21.0-20240511-UNOFFICIAL-begonia.zip",
       "version": "21.0"
     }
   ]
